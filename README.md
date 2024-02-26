@@ -1,6 +1,6 @@
 Política de Privacidade
 
-O aplicativo SmartRoad não coleta nenhum dado pessoal dos usuários.
+O aplicativo SmartRoad Lite não coleta nenhum dado pessoal dos usuários.
 
 O que significa isso?
 
