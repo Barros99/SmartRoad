@@ -1,6 +1,6 @@
 Política de Privacidade
 
-O aplicativo [SmartRoad] não coleta nenhum dado pessoal dos usuários.
+O aplicativo SmartRoad não coleta nenhum dado pessoal dos usuários.
 
 O que significa isso?
 
@@ -13,4 +13,4 @@ Por que não coletamos dados?
     Acreditamos na sua privacidade e no seu direito de controlar seus dados.
     Queremos que você se sinta seguro ao usar o Aplicativo.
 
-Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do e-mail [estradainteligente@gmail.cmo].
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do e-mail [estradainteligente@gmail.com].
